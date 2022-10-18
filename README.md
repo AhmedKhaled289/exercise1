@@ -7,7 +7,9 @@ ServiceLayer to be saved in database
 
 http://localhost:8081/swagger-ui.html   to show services and test it 
 
-table created at oracle dataase scripts
+Hibernate create table  at oracle dataabse 
+
+scripts
 
 CREATE TABLE SYS.USERS
 (
@@ -20,6 +22,7 @@ CREATE TABLE SYS.USERS
   ADD_ID      NUMBER(19),
   COMPANY_ID  NUMBER(19),
   primary key (ID)
+
 )
 
 CREATE TABLE SYS.ADDRESS
