@@ -7,7 +7,7 @@ ServiceLayer to be saved in database
 
 http://localhost:8081/swagger-ui.html   to show services and test it 
 
-Hibernate create table  at oracle dataabse 
+Hibernate create tables at oracle dataabse 
 
 scripts
 
